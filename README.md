@@ -1,2 +1,3 @@
 # tamagui-popover-broken
-Reproduction for bug
+
+Reproduction for https://github.com/tamagui/tamagui/issues/2392
